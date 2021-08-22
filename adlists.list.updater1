@@ -1,0 +1,57 @@
+#Torrent Tracker
+https://ngosang.github.io/trackerslist/trackers_all.txt
+https://ngosang.github.io/trackerslist/trackers_all_ip.txt
+https://ngosang.github.io/trackerslist/trackers_all_udp.txt
+https://ngosang.github.io/trackerslist/trackers_all_http.txt
+https://ngosang.github.io/trackerslist/trackers_all_https.txt
+
+## Porn List
+https://block.energized.pro/extensions/porn-lite/formats/domains.txt
+https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
+https://block.energized.pro/porn/formats/hosts.txt
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+
+#This list disables browser based miners such as coin-hive
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+
+#Porn
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
+
+#Host file to block facebook ads, tracking and more! Updated daily
+https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+
+#Internal Block List
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/dnssehat01.zone
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/dnssehat02.zone
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/dnssehat-etcreport.zone
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/gabungan-semua.zone
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/domains.zone
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/phishing_army_blocklist.txt
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/notrack-malware.txt
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/notrack-blocklist.txt
+https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/porn.zone
+
+https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
+https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt
+
+# Pihole Blocklist Github mhakim
+https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt
+https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
+
+#GoodbyeAds - World of Ads Free Internet
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+
+#This is an adblock list to block "browser-based crypto mining"
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+
+
+# StevenBlack Unified hosts (adware + malware) + fakenews + gambling + porn 
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
+
+# Ads, Mobile Ads, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking and some Telemetry, Analytics, Tracking
+https://dbl.oisd.nl/
