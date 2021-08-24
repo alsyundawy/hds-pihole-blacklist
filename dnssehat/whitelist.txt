@@ -448,7 +448,6 @@ ytimg.com
 ytimg-edge-static.l.google.com
 zerodot1.gitlab.io
 ziprecruiter.com
-zoom.us
 stripe.com
 www.stripe.com
 slideshare.net
@@ -490,3 +489,9 @@ gayuh.net.id
 bajakan.id
 bukalapak.com
 *.bukalapak.com
+tiket.com
+*.tiket.com
+shoope.co.id
+*.shoope.co.id
+traveloka.com
+*.traveloka.com
