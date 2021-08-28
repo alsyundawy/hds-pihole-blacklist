@@ -1,35 +1,6 @@
 # Extra From TrustPositif
-
 https://raw.githubusercontent.com/alsyundawy/hds-pihole-blacklist/main/dnssehat/trustpositif-kominfo.txt
 
 
 
-# Extra From Ultimate.Hosts.Blacklist
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains0.list
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains1.list
-https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/domains/domains2.list
 
-## Porn List
-https://block.energized.pro/extensions/porn-lite/formats/domains.txt
-https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
-https://block.energized.pro/porn/formats/hosts.txt
-https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
-
-## blocklistproject
-https://blocklistproject.github.io/Lists/alt-version/everything-nl.txt
-
-# Pihole Blocklist Github mhakim
-https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt
-https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
-
-#GoodbyeAds - World of Ads Free Internet
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
-
-#This is an adblock list to block "browser-based crypto mining"
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-
-# StevenBlack Unified hosts (adware + malware) + fakenews + gambling + porn 
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
-
-#Internal Block List
-https://raw.githubusercontent.com/alsyundawy/hds-pihole-list/master/dnssehat/dnssehat01.zone
