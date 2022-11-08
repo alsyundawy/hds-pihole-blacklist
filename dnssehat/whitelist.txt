@@ -53,3 +53,6 @@ max.net.id
 sbp.net.id
 fiberstar.co.id
 fibermedia.co.id
+orion.net.id
+mail.orion.net.id
+tinyurl.com
