@@ -45,7 +45,12 @@ a.hosting.orion.net.id
 b.hosting.orion.net.id
 hsp.net.id
 smtp.orion.net.id
-google.com
+facebook.com
+twitter.com
+whatsapp.com
+web.whatsapp.com
+instagram.com
+tiktok.com
 idc.co.id
 hetrixtools.com
 maxindo.net.id
