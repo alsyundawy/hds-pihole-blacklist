@@ -3,6 +3,16 @@ gayuh.net.id
 shoope.co.id
 tiket.com
 tokopedia.com
+www.tokopedia.com
+loklok.com
+www.loklok.com
+admin.loklok.com
+app.loklok.com
+download.loklok.com
+ga-mobile-api.loklok.com
+h5.loklok.com
+home.loklok.com
+test-pc.loklok.com
 traveloka.com
 whatsapp.com
 zoom.us
