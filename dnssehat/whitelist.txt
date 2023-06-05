@@ -19,6 +19,11 @@ web.whatsapp.com
 indodax.com
 zoom.us
 ads.google.com
+api.agoda.com.edgekey.net 
+www.agoda.com
+banner.agoda.com 
+agoda.com
+api.agoda.com
 sc.com
 bca.co.id
 klikbca.com
