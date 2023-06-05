@@ -16,12 +16,13 @@ test-pc.loklok.com
 traveloka.com
 whatsapp.com
 web.whatsapp.com
+api.whatsapp.com
 indodax.com
 zoom.us
 ads.google.com
-api.agoda.com.edgekey.net 
+api.agoda.com.edgekey.net
 www.agoda.com
-banner.agoda.com 
+banner.agoda.com
 agoda.com
 api.agoda.com
 sc.com
