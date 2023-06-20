@@ -1,3 +1,5 @@
+apnic.net
+info.apnic.net
 bukalapak.com
 gayuh.net.id
 shoope.co.id
