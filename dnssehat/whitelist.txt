@@ -126,6 +126,7 @@ adobe.com
 ads.google.com
 agoda.com
 akadns.net
+marketingplatform.google.com
 akamai-staging.net
 akamai.com
 akamai.net
