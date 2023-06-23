@@ -1,4 +1,5 @@
 apnic.net
+*.apnic.net
 info.apnic.net
 bukalapak.com
 gayuh.net.id
@@ -18,6 +19,7 @@ whatsapp.com
 indodax.com
 zoom.us
 ads.google.com
+analytics.google.com
 *.edgekey.net
 *.akadns.net
 www.agoda.com
