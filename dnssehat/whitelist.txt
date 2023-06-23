@@ -97,7 +97,6 @@
 *.sbp.net.id
 *.sc.com
 *.shoope.co.id
-*.shopee.co.id
 *.smtp.orion.net.id
 *.snackvideo.com
 *.steampowered.com
@@ -220,7 +219,6 @@ promotion.tiket.com
 sbp.net.id
 sc.com
 shoope.co.id
-shopee.co.id
 smtp.orion.net.id
 snackvideo.com
 steampowered.com
