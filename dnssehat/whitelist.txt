@@ -1,3 +1,5 @@
+tokopedia.net
+*.tokopedia.net
 *.189cube.com
 *.adobe.com
 *.agoda.com
