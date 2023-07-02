@@ -1,3 +1,13 @@
+a-msedge.net
+b-msedge.net
+c-msedge.net
+d-msedge.net
+msedge.net
+*.a-msedge.net
+*.b-msedge.net
+*.c-msedge.net
+*.d-msedge.net
+*.msedge.net
 _8080._https.speedtest-fcc.sdncommunications.com
 _api._tcp.radio-browser.info
 _bittorrent-tracker._tcp.net
