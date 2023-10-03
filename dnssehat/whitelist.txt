@@ -70,7 +70,6 @@ tokopedia.net
 *.ocbcnisp.id
 *.orion.net.id
 *.playstation.com
-*.pornhub.com
 *.sbp.net.id
 *.sc.com
 *.shoope.co.id
@@ -159,7 +158,6 @@ ocbcnisp.com
 ocbcnisp.id
 orion.net.id
 playstation.com
-pornhub.com
 sbp.net.id
 sc.com
 shoope.co.id
