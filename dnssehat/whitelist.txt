@@ -38,7 +38,6 @@ tokopedia.net
 *.gayuh.net.id
 *.github.com
 *.go-jek.com
-*.google.com
 *.googleapis.com
 *.googlevideo.com
 *.grab.com
@@ -280,10 +279,6 @@ click.instantink.hpsmart.com
 click.linksynergy.com
 click.mc.crimsontrace.com
 client.hip.live.com
-clients1.google.com
-clients2.google.com
-clients4.google.com
-clients6.google.com
 clouddrive.com
 cnc.addlive.io
 codex.nflxext.com
@@ -310,7 +305,6 @@ disney.api.edge.bamgrid.com
 disney.content.edge.bamgrid.com
 displaycatalog.mp.microsoft.com
 dl.dropboxusercontent.com
-dl.google.com
 dmp.mgapex.com
 dns.msftncsi.com
 download.windowsupdate.com
@@ -409,8 +403,6 @@ js-assets.aiv-cdn.net
 js.media-lab.ai
 kaios-d.facebook.com
 kangaroo.vocento.com
-kh.google.com
-khmdb.google.com
 kqzyfj.com
 l.facebook.com
 l.instagram.com
@@ -462,7 +454,6 @@ msedge.f.tlu.dl.delivery.mp.microsoft.com
 msedge.sf.dl.delivery.mp.microsoft.com
 msftconnecttest.com
 msftncsi.com
-mtalk.google.com
 my-win.avast.com
 mypdns.cloud
 mypdns.com
@@ -479,7 +470,6 @@ oempprd.samsungcloudsolution.com
 oempprd.samsungcloudsolution.net
 office.live.com
 officeclient.microsoft.com
-ogs.google.com
 ojrq.net
 op-d.storage.googleapis.com
 op-u.storage.googleapis.com
@@ -539,7 +529,6 @@ s3-eu-west-1.amazonaws.com
 s3-us-west-1.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
 s3.us-east-2.amazonaws.com
-scone-pa.clients6.google.com
 scontent.xx.fbcdn.net
 scu.client.hip.live.com
 sdx.microsoft.com
@@ -552,7 +541,6 @@ shareasale-analytics.com
 shareasale.com
 shasta-rrs.symantec.com
 shrink-service.it
-signaler-pa.clients6.google.com
 signature.video.aetnd.com
 slscr.update.microsoft.com
 smtp.mail.yahoo.com
@@ -599,7 +587,6 @@ time.windows.com
 tinyurl.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
-tools.google.com
 track.aftership.com
 tracking.truthfinder.com
 tracking.ubisoft.com
@@ -653,7 +640,6 @@ ygf52iv26zfnxdocs4kfzcalfa.appsync-api.us-east-1.amazonaws.com
 youtu.be
 youtube-nocookie.com
 youtube.com
-yt3.googleusercontent.com
 zone.msn.com
 jquery.com
 *.jquery.com
