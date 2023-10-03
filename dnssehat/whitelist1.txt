@@ -675,3 +675,5 @@ newrelic.com
 *.newrelic.com
 cloudflare.com
 *.cloudflare.com
+*.loklok.com
+loklok.com
