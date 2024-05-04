@@ -581,3 +581,5 @@ youtube.com
 ytimg.com
 zone.msn.com
 zoom.us
+tokopedia.app.link
+tokopedia.link
