@@ -461,6 +461,8 @@ shareasale.com
 shasta-rrs.symantec.com
 shoope.co.id
 shopee.co.id
+shoope.ee
+shopee.ee
 shrink-service.it
 signature.video.aetnd.com
 slscr.update.microsoft.com
@@ -582,5 +584,11 @@ ytimg.com
 zone.msn.com
 zoom.us
 tokopedia.app.link
-tokopedia.link
+speedtest.com
+speedtest.net
+ookla.com
+net.id
+sg1.quickconnect.to
+sg2.quickconnect.to
 sg3.quickconnect.to
+sg4.quickconnect.to
