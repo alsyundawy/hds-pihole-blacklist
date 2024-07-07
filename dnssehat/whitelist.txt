@@ -596,3 +596,8 @@ ooklaserver.net
 cdnst.net
 webtest.net
 speedtestcustom.com
+cellmaps.com
+ekahau.cloud
+ekahau.com
+pingtest.net
+speedtest.co
