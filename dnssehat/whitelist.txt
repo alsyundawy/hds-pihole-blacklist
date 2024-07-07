@@ -592,3 +592,7 @@ sg1.quickconnect.to
 sg2.quickconnect.to
 sg3.quickconnect.to
 sg4.quickconnect.to
+ooklaserver.net
+cdnst.net
+webtest.net
+speedtestcustom.com
