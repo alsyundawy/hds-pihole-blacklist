@@ -601,3 +601,5 @@ ekahau.cloud
 ekahau.com
 pingtest.net
 speedtest.co
+msi.com
+zoho.com
