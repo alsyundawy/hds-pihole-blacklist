@@ -27,6 +27,7 @@ akamaiorigin-staging.net
 akamaiorigin.net
 akamaized-staging.net
 akamaized.net
+allawnos.com
 alt1-mtalk.google.com
 alt2-mtalk.google.com
 alt3-mtalk.google.com
@@ -103,7 +104,7 @@ bukalapak.com
 bytedance.com
 byteoversea.com
 c-msedge.net
-c.paypal.com
+paypal.com
 c2.piano.io
 cache-cms-ext-us.battle.net
 cachefly.com
