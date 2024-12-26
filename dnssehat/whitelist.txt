@@ -12,6 +12,7 @@ activation-v2.sls.microsoft.com
 adobe.com
 ads-a-darwin.hulustream.com
 adwcleaner.toolslib.net
+adguard.com
 ae01.alicdn.com
 agoda.com
 ajax.aspnetcdn.com
