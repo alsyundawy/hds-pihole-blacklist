@@ -165,6 +165,7 @@ displaycatalog.mp.microsoft.com
 dl.dropboxusercontent.com
 dmp.mgapex.com
 dns.msftncsi.com
+dns.adguard.com
 docs.google.com
 download.windowsupdate.com
 dpbolvw.net
